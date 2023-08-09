@@ -50,6 +50,6 @@ Emotions in text fascinated me as I ventured into sentiment analysis using the V
 - **Analyzing Sentiment:** Applied VADER to analyze text sentiment and interpreted results.
 - **Practical Exercises:** Engaged in hands-on activities in [Sentiment_Analysis_using_VADER.ipynb](Sentiment_Analysis_using_VADER.ipynb) to perform sentiment analysis using VADER.
 
-Feel free to join me on this enriching journey, explore the corresponding Jupyter Notebooks, and practice the exercises to enhance your NLP skills. Enjoy the process of learning and discovery! 🌟🐍
+And most importantly Enjoy the process of learning and discovery! 🌟🐍
 
 ### **Tags:** `python`, `nltk`, `natural language processing`, `text analysis`, `tokenization`, `stopword removal`, `parts of speech tagging`, `named entity recognition`, `sentiment analysis`
