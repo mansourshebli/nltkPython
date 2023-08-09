@@ -1,4 +1,4 @@
-# **My NLP Journey with NLTK in Python** 🚀
+# **NLP with NLTK in Python** 🚀
 
 Welcome to my NLTK NLP project on GitHub! 📚 This repository is a documentation of my hands-on exploration of Natural Language Processing (NLP) concepts and techniques using the NLTK library in Python. Below, I'll walk you through some very very very simple examples I did with the following:
 > 💡 **Note:** It took me a while to put together this documentation. I hope you find it helpful! 👀
