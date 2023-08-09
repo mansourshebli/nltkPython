@@ -8,7 +8,8 @@ Welcome to my NLTK NLP project on GitHub! 📚 This repository is a documentatio
   <a href="#parts-of-speech-tagging"><img src="https://img.shields.io/badge/-Parts%20of%20Speech%20Tagging-blue?style=for-the-badge&logo=python" alt="Parts of Speech Tagging"></a>
   <a href="#named-entity-recognition-ner"><img src="https://img.shields.io/badge/-Named%20Entity%20Recognition-yellow?style=for-the-badge&logo=python" alt="Named Entity Recognition"></a>
   <a href="#sentiment-analysis-using-vader"><img src="https://img.shields.io/badge/-Sentiment%20Analysis%20using%20VADER-orange?style=for-the-badge&logo=python" alt="Sentiment Analysis using VADER">
-   <a href="#DONE-BY-MANSOUR-ALSHEBLI"><img src="https://img.shields.io/badge/-Sentiment%20Analysis%20using%20VADER-black?style=for-the-badge&logo=python" alt="Done by Mansour Alshebli"></a>
+ <a href="#DONE-BY-MANSOUR-ALSHEBLI"><img src="https://img.shields.io/badge/-Sentiment%20Analysis%20using%20VADER-orange?style=for-the-badge&logo=coder" alt="Done by Mansour Alshebli"></a>
+
 
   </a>
 </p>
