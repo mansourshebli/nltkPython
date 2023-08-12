@@ -1,6 +1,5 @@
  # @mansourshebli 
 
-# Tokenization with NLTK
 # Imported the required libraries
 import nltk
 from nltk.tokenize import word_tokenize
